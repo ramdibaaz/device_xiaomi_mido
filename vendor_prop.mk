@@ -97,6 +97,7 @@ ro.hardware.vulkan=adreno \
 ro.hardware.egl=adreno \
 ro.opengles.version=196610 \
 ro.surface_flinger.max_frame_buffer_acquired_buffers=3 \
+debug.sdm.support_writeback=0 \
 ro.vendor.display.cabl=2 \
 vendor.display.enable_default_color_mode=1 \
 vendor.display.disable_skip_validate=1 \
