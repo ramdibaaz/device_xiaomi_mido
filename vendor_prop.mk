@@ -242,8 +242,8 @@ persist.sys.wfd.virtual=0
 
 # Fling Velocity
 PRODUCT_PROPERTY_OVERRIDES += \
-ro.min.fling_velocity=160 \
-ro.max.fling_velocity=20000
+    ro.min.fling_velocity=160 \
+    ro.max.fling_velocity=20000
 
 # Properties
 PRODUCT_PROPERTY_OVERRIDES += \
