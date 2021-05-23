@@ -241,6 +241,3 @@ persist.sys.wfd.virtual=0
 # USAP [zygote preforking]
 PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
     persist.device_config.runtime_native.usap_pool_enabled=true
-
-# QC framework value-adds
-ro.vendor.qti.va_aosp.support=1 
